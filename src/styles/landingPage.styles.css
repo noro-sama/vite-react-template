@@ -1,0 +1,12 @@
+.landing-grid {
+  background-image: linear-gradient(to right, rgb(148 163 184 / 0.12) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(148 163 184 / 0.12) 1px, transparent 1px);
+  background-size: 44px 44px;
+  mask-image: linear-gradient(to bottom, black, transparent 82%);
+}
+
+.landing-glow {
+  background:
+    radial-gradient(ellipse at 50% 0%, rgb(99 102 241 / 0.13), transparent 58%),
+    linear-gradient(to bottom, white, rgb(248 250 252 / 0.75));
+}
